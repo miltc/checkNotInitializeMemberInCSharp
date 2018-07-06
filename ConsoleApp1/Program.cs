@@ -27,6 +27,9 @@ namespace ConsoleApp1
                 
             }
             Console.ReadLine();
+	//Id=0,Name=Taro
+	//Id=0,Name=Jiro
+
         }
     }
 }
