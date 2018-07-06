@@ -1,0 +1,2 @@
+if you do not initialize the member explicitly, compiler build is end successfully. if the type is int the value is 0.
+
